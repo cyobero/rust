@@ -1,0 +1,13 @@
+/home/cyobero/rust/examples/json/target/debug/deps/pear-0f62ab94be438e68.rmeta: /home/cyobero/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/lib.rs /home/cyobero/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/macros.rs /home/cyobero/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/input.rs /home/cyobero/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/result.rs /home/cyobero/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/debug.rs /home/cyobero/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/combinators.rs /home/cyobero/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/parsers.rs
+
+/home/cyobero/rust/examples/json/target/debug/deps/libpear-0f62ab94be438e68.rlib: /home/cyobero/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/lib.rs /home/cyobero/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/macros.rs /home/cyobero/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/input.rs /home/cyobero/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/result.rs /home/cyobero/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/debug.rs /home/cyobero/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/combinators.rs /home/cyobero/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/parsers.rs
+
+/home/cyobero/rust/examples/json/target/debug/deps/pear-0f62ab94be438e68.d: /home/cyobero/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/lib.rs /home/cyobero/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/macros.rs /home/cyobero/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/input.rs /home/cyobero/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/result.rs /home/cyobero/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/debug.rs /home/cyobero/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/combinators.rs /home/cyobero/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/parsers.rs
+
+/home/cyobero/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/lib.rs:
+/home/cyobero/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/macros.rs:
+/home/cyobero/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/input.rs:
+/home/cyobero/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/result.rs:
+/home/cyobero/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/debug.rs:
+/home/cyobero/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/combinators.rs:
+/home/cyobero/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/parsers.rs:
